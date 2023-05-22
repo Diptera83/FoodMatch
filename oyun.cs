@@ -5,7 +5,7 @@ using System.Collections.Generic;
 using TMPro;
 using Unity.Mathematics;
 using UnityEngine;
-
+//github tarafından küçük deneme
 public class oyun : MonoBehaviour
 {
     public GameObject Obje;
